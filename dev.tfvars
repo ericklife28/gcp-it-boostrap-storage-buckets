@@ -1,3 +1,4 @@
-project_id    = "bogota-bod-build"
+project_id    = "bogota-bod"
 environment   = "dev"
-storage_calss = "REGIONAL"
+storage_class = "REGIONAL"
+organization  = "bodendava"
