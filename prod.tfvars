@@ -1,4 +1,4 @@
-project_id    = "bogota-bod"
+project_id    = "daniel-app-362315"
 environment   = "prod"
 storage_class = "STANDARD"
 location      = "US-EAST1+US-EAST4"
